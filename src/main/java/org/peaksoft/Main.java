@@ -5,6 +5,7 @@ public class Main {
         // TODO: 27.09.2023   реализуйте алгоритм здесь
 
         System.out.println("hello world");
-
+        
+        System.out.println("hello world");
     }
 }
